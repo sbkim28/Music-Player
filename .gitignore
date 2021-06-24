@@ -1,0 +1,8 @@
+build/
+dist/
+.idea/
+__pycache__/
+
+data
+setting
+main.spec
